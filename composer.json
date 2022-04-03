@@ -1,0 +1,23 @@
+{
+  "name": "menu/restaurant",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "hegabovic",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "illuminate/database": "^8.83"
+  },
+  "autoload": {
+    "psr-4": {
+      "Model\\": "Model",
+      "Services\\": "Services"
+    },
+    "files": ["config.php"]
+  }
+
+}
