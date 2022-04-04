@@ -24,17 +24,11 @@ This is a solution of creating basic menu for restaurant system using Jquery
 
    ``` giot clone https://github.com/Hegabovic/Jquery-Resturant-Menu.git ```
 
-2) in the project directory run the following
-    ```
-    $composer install
-    $composer dump-autoload
-    $php -S 127.0.0.1:3000 #to test locally
-    ```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built with
 
-* [PHP Native](https://www.php.net/)
 * [JavaScript](https://www.javascript.com/)
 * [Symantic HTML5 markup](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 * [CSS custom properties](https://developer.mozilla.org/en-US/docs/Web/CSS)
